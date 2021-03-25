@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "오유진"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Learning computer language"
+  location         : "대한민국, 서울"
+  email            : "
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
