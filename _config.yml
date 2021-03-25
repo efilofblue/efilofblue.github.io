@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "오유진!"
+  name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Learning computer language"
   location         : "대한민국, 서울"
