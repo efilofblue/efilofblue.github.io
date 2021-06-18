@@ -3,7 +3,7 @@ title: "efilofblue 소개"
 permalink: /about/ 
 layout: single 
 --- 
-- Hello, this is the blog of 'efilofblue."
+- Hello, this is the blog of 'efilofblue.'
 - 안녕하세요, 'efilofblue'의 블로그입니다.
 - scientist, engineer, philosopher, artist
 - We are infinite.
